@@ -6,6 +6,6 @@ This project aims to build a machine learning model to predict NFL game outcomes
 ## Key Features
 **Team Indexing**: Consistent team representation across team_home, team_away, and team_favorite_id columns using an indexing system.
 
-**Feature Engineering**: Includes game-specific and weather-based features to enhance model performance.
+**Feature Engineering**: Includes game-specific occurrences, spread and O/U data, and weather-based features to enhance model performance.
 
 **Target Variable**: The model predicts the team_home_result, where 1 indicates a home win and 0 indicates a loss.
